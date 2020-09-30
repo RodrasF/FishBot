@@ -1,2 +1,2 @@
-# TwitchBot
+# FishTwitchBot
  Twitch Bot for yourmotherisafish
